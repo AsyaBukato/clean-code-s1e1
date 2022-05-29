@@ -42,13 +42,13 @@ body {
 }
 
 ul {
-    margin:0;
-    padding: 0px;
+  margin:0;
+  padding: 0px;
 }
 
 li, 
 h3 {
-    list-style:none;
+  list-style:none;
 }
 
 input,
